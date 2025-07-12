@@ -1,7 +1,7 @@
 # 💫 About Me:
- ✨ Hi there! I’m Valerie 👋<br><br>🎓 I’m a Software Engineering student at Ontario Tech University  <br>💻 I love building cool things with code especially web & mobile apps  <br>🎨 Aspiring  Full-Stack Developer + Graphic Designer blending logic with creativity  <br>🚀 Currently exploring React, Figma, and whatever looks fun<br><br>🧠 Always learning, always curious  <br>💬 Let’s connect and create something amazing!<br><br>
+ ✨ Hi there! welcome to my Git-hub profile I’m Valerie 👋<br><br>🎓 I’m a Software Engineering student at Ontario Tech University  <br>💻 I love building cool things with code especially web & mobile apps  <br>🎨 Aspiring Interactive Full-Stack Developer + Graphic Designer blending logic with creativity  <br>🚀 Currently exploring React, Figma, and whatever looks fun<br><br>🧠 Always learning, always curious  <br>💬 Let’s connect and create something amazing!<br><br>
 
-
+# 💫 What I Do:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com) 
 
