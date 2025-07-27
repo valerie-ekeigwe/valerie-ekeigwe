@@ -13,8 +13,7 @@
 
 ---
 
-## 🧵 My Developer Thread (Twitter Style)
-
+## 🧵 My Developer Thread
 > 🧑‍🎓 `Software Engineering @ Ontario Tech`  
 > 💻 `I build interactive web & mobile apps`  
 > 🎨 `Design enthusiast | Figma, Framer, Blender`  
