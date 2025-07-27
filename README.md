@@ -1,8 +1,8 @@
 <!-- 🖤 Minimalist Welcome Banner -->
-x<!-- 🖤 Aesthetic Banner -->
 <p align="center">
-  <img src="g" width="100%" />
+  <img src="https://raw.githubusercontent.com/valerie-ekeigwe/valerie-ekeigwe/main/banner.jpeg" width="100%" />
 </p>
+
 
 
 <h1 align="center">✨ Hey, I'm Valerie ✨</h1>
