@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hi there! welcome to my Git-hub profile I’m Valerie Ekeigwe 👋<br><br>🎓 I’m a Software Engineering student at Ontario Tech University<br>💻 I love building cool things with code especially web & mobile apps<br>🎨 Aspiring Interactive Full-Stack Developer + Graphic Designer blending logic with creativity<br>🚀 Currently exploring React, Figma, and whatever looks fun<br>🧠 Always learning, always curious<br>💬 Let’s connect and create something amazing!
+✨ Hi there! welcome to my Git-hub profile I’m Valerie. 👋<br><br>🎓 I’m a Software Engineering student at Ontario Tech University<br>💻 I love building cool things with code especially web & mobile apps<br>🎨 Aspiring Interactive Full-Stack Developer + Graphic Designer blending logic with creativity<br>🚀 Currently exploring React, Figma, and whatever looks fun<br>🧠 Always learning, always curious<br>💬 Let’s connect and create something amazing!
 
 
 ## 🌐 Socials:
@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=valerie-ekeigwe&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valerie-ekeigwe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
