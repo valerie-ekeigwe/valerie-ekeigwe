@@ -1,16 +1,83 @@
-# 💫 About Me:
-✨ Hi there! welcome to my Git-hub profile I’m Valerie. 👋<br><br>🎓 I’m a Software Engineering student at Ontario Tech University<br>💻 I love building cool things with code especially web & mobile apps<br>🎨 Aspiring Interactive Full-Stack Developer + Graphic Designer blending logic with creativity<br>🚀 Currently exploring React, Figma, and whatever looks fun<br>🧠 Always learning, always curious<br>💬 Let’s connect and create something amazing!
+<!-- 🖤 Minimalist Welcome Banner -->
+x<!-- 🖤 Aesthetic Banner -->
+<p align="center">
+  <img src="g" width="100%" />
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valerieekeigwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com) 
+<h1 align="center">✨ Hey, I'm Valerie ✨</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=valerie-ekeigwe&theme=gotham&hide_border=false)<br/>
+<p align="center">
+  <em>👩‍💻 Full-stack Dev in the making | 🎨 Design-Driven | 💭 Forever Curious</em>
+</p>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=valerie-ekeigwe&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧵 My Developer Thread (Twitter Style)
+
+> 🧑‍🎓 `Software Engineering @ Ontario Tech`  
+> 💻 `I build interactive web & mobile apps`  
+> 🎨 `Design enthusiast | Figma, Framer, Blender`  
+> 🤖 `Exploring LLMs, AI tools & creative tech`  
+> 💬 `Let’s build something amazing — together!`  
+> 🌱 `#100DaysOfCode | #WomenWhoCode | #DevDesign`  
+
+---
+
+## 🗂️ Tech Stack (click to expand)
+
+<details>
+  <summary><strong>🖼️ Frontend</strong></summary>
+  HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, GSAP, Framer, Figma
+</details>
+
+<details>
+  <summary><strong>📦 Backend & DB</strong></summary>
+  Node.js, Express, MongoDB, Prisma, EmailJS
+</details>
+
+<details>
+  <summary><strong>🧩 Creative Tech</strong></summary>
+  Three.js, WebGL, GSAP, Shaders, Framer Motion, Real-time UI Systems
+</details>
+
+<details>
+  <summary><strong>📱 Design & Tools</strong></summary>
+  Figma, Framer, Blender, Adobe Creative Suite, Git, GitHub, VS Code
+</details>
+
+---
+## 📌 Pinned Projects
+
+| 🧩 Project | Description | Stack |
+|-----------|-------------|-------|
+| 🌐 [**Personal Website**](https://github.com/valerie-ekeigwe/personal-website) | Interactive 3D portfolio site | `HTML`, `CSS`, `JavaScript`, `Three.js`, `GSAP`, `Framer` |
+| 🫘 [**The Bean Book**](https://github.com/valerie-ekeigwe/bean-book) | Booking system for In Kan D Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
+| 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/capsrow) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
+
+---
+## 📬 Let’s Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valerieekeigwe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerie-ekeigwe&theme=tokyonight&hide_border=false" width="45%" />
+</p>
+---
+
+## 🎧 Now Learning / Building
+
+```js
+const nowLearning = [
+  'LangChain + Prompt Design 🤖',
+  'Real-time Creative UI Systems 🎮',
+  'MongoDB & EmailJS Integration 💌',
+  'Custom Dashboards & Admin UIs 📊'
+];
+
