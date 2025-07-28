@@ -86,6 +86,9 @@
 
 </p>
 
+<!-- 🐍 GitHub Contribution Snake -->
+<img src="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/main/public/snake.svg" width="100%" />
+
 ## 🎧 Now Learning / Building
 
 ```js
