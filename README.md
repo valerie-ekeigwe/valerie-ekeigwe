@@ -12,6 +12,11 @@
 </p>
 
 ---
+<p align="center">
+  🧠 Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong> : a booking system for a coworking business, that helps users view and reserve available spaces in real-time.<br/>
+  🚀 I'm Passionate about creative tools, UI/UX design, and I'm currently obsessed with C++.<br/>
+  🤝 I'm open to internships, freelance opportunities, and meaningful collaborations.
+</p>
 
 ## 🧵 My Developer Thread
 > 🧑‍🎓 `Software Engineering @ Ontario Tech`  
@@ -69,6 +74,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerie-ekeigwe&theme=tokyonight&hide_border=false" width="45%" />
+  ## 📈 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&show_icons=true&theme=radical" alt="Valerie's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Optional Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=valerie-ekeigwe&color=blue" alt="Profile views" />
+</p>
+
 </p>
 
 ## 🎧 Now Learning / Building
