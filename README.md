@@ -79,6 +79,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+## 🐍 Contribution Snake
+
+**Light mode:**
+
+![snake-light](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake.svg)
+
+**Dark mode:**
+
+![snake-dark](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+
+---
 <!-- Optional Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=valerie-ekeigwe&color=blue" alt="Profile views" />
@@ -86,8 +99,7 @@
 
 </p>
 
-<!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/main/public/snake.svg" width="100%" />
+
 
 ## 🎧 Now Learning / Building
 
