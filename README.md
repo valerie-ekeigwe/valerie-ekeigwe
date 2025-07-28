@@ -68,13 +68,6 @@
 [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://valerieekeigwe.substack.com/)
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/valerie-ekeigwe/valerie-ekeigwe/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
