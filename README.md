@@ -50,7 +50,7 @@
 
 | 🧩 Project | Description | Stack |
 |-----------|-------------|-------|
-| 🌐 [**Personal Website**](https://github.com/valerie-ekeigwe/personal-website) | Interactive 3D portfolio site | `HTML`, `CSS`, `JavaScript`, `Three.js`, `GSAP`, `Framer` |
+| 🌐 [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
 | 🫘 [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for In Kan D Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
 | 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
