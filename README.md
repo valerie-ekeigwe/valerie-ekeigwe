@@ -82,13 +82,21 @@
 ---
 ## 🐍 Contribution Snake
 
-**Light mode:**
+**Light Mode:**
 
 ![snake-light](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake.svg)
 
-**Dark mode:**
+**Dark Mode:**
 
 ![snake-dark](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+<!-- Optional: Auto-switch based on system theme -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ---
