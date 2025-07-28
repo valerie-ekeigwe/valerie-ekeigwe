@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,10 @@ jobs:
           github_user_name: valerie-ekeigwe
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#ff4d6d"       # 🔥 Vibrant coral-pink snake
+          color_dots: "#bfbfbf"        # ✨ Clean, neutral dots
+          svg_only: true               # no GIF, clean and modern
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
