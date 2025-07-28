@@ -52,7 +52,7 @@
 |-----------|-------------|-------|
 | 🌐 [**Personal Website**](https://github.com/valerie-ekeigwe/personal-website) | Interactive 3D portfolio site | `HTML`, `CSS`, `JavaScript`, `Three.js`, `GSAP`, `Framer` |
 | 🫘 [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for In Kan D Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
-| 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/capsrow) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
+| 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
 ---
 ## 📬 Let’s Connect
