@@ -17,8 +17,8 @@
 > 🧑‍🎓 `Software Engineering @ Ontario Tech`  
 > 💻 `I build interactive web & mobile apps`  
 > 🎨 `Design enthusiast | Figma, Framer, Blender`  
-> 🤖 `Exploring LLMs, AI tools & creative tech`  
-> 💬 `Let’s build something amazing — together!`  
+> 🤖 `Exploring LLMs & creative tech`  
+> 💬 `Let’s build something amazing together!`  
 > 🌱 `#100DaysOfCode | #WomenWhoCode | #DevDesign`  
 
 ---
@@ -60,6 +60,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valerieekeigwe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com)
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://valerieekeigwe.substack.com/)
+
 
 ---
 ## 📊 GitHub Stats
