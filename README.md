@@ -1,11 +1,16 @@
+<p align="center">
+  <img src="banner.jpeg" alt="Valerie's banner" style="border-radius: 27px; max-width: 100%;" />
+</p>
+
 <h1 align="center">✨ Hey, I'm Valerie ✨</h1>
-<p align="center"><strong>Creative Engineer | Dev | Designer</strong></p>
+<p align="center"><strong>Engineer x Designer x Builder of Beautiful Things</strong></p>
+
 
 
  
 
 <p align="center">
-  <em>👩‍💻 Full-stack Dev in the making | 🎨 Design-Driven | 💭 Forever Curious</em>
+  <em>👩‍💻 Full-stack Dev in the making | Design Driven | C++ enthusiast</em>
 </p>
 
 ---
@@ -18,13 +23,12 @@
 
 ---
 
-## 🧵 My Developer Thread
-> 🧑‍🎓 `Software Engineering @ Ontario Tech`  
-> 💻 `I build interactive web & mobile apps`  
-> 🎨 `Design enthusiast | Figma, Framer, Blender`  
-> 🤖 `Exploring LLMs & creative tech`  
-> 💬 `Let’s build something amazing together!`  
->  `#100DaysOfCode | #WomenWhoCode | #DevDesign`  
+##  My Developer Thread
+>  `Software Engineering @ Ontario Tech`  
+>  `I build interactive web & mobile apps`  
+>  `Design enthusiast | Figma, Framer, Blender`  
+>  `Exploring LLMs & creative tech`  
+>  `Let’s build something amazing together!`  
 
 ---
 
@@ -84,7 +88,7 @@
 |  Projects | Description | Stack |
 |-----------|-------------|-------|
 |  [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
-|  [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for Ink an Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
+|  [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for Ink and Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
 |  [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
 ---
@@ -130,8 +134,8 @@
 
 ```js
 const nowLearning = [
-  'LangChain + Prompt Design 🤖',
-  'Real-time Creative UI Systems 🎮',
+  'Kubernetes',
+  'Currently honing in on my Front-End Skills',
   'MongoDB & EmailJS Integration 💌',
   'Custom Dashboards & Admin UIs 📊'
 ];
