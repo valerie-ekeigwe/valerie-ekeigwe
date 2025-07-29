@@ -80,15 +80,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-**Light Mode:**
-
-![snake-light](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake.svg)
-
-**Dark Mode:**
-
-![snake-dark](https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!-- Optional: Auto-switch based on system theme -->
 
