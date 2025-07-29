@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  🧠 Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong>: a coworking space booking system.<br/>
-  🚀 Passionate about UI/UX, creative tools, and all things C++.<br/>
-  🤝 Open to internships, freelance work, and collaborative builds.
+   Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong>: a coworking space booking system.<br/>
+   Passionate about UI/UX, creative tools, and all things C++.<br/>
+   Open to internships, freelance work, and collaborative builds.
 </p>
 
 ---
@@ -24,14 +24,14 @@
 > 🎨 `Design enthusiast | Figma, Framer, Blender`  
 > 🤖 `Exploring LLMs & creative tech`  
 > 💬 `Let’s build something amazing together!`  
-> 🌱 `#100DaysOfCode | #WomenWhoCode | #DevDesign`  
+>  `#100DaysOfCode | #WomenWhoCode | #DevDesign`  
 
 ---
 
-## 🗂️ Tech Stack (click to expand)
+## Tech Stack (click to expand)
 
 <details>
-  <summary><strong>🖼️ Frontend</strong></summary>
+  <summary><strong> Frontend</strong></summary>
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary><strong>📦 Backend & DB</strong></summary>
+  <summary><strong> Backend & DB</strong></summary>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><strong>🧩 Creative Tech</strong></summary>
+  <summary><strong> Creative Tech</strong></summary>
   <p>
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/WebGL-FF6F61?style=for-the-badge&logo=webgl&logoColor=white"/>
@@ -79,13 +79,13 @@
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
-| 🧩 Project | Description | Stack |
+|  Projects | Description | Stack |
 |-----------|-------------|-------|
-| 🌐 [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
-| 🫘 [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for In Kan D Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
-| 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
+|  [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
+|  [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for In Kan D Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
+|  [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
 ---
 
@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false" width="45%" />
@@ -110,9 +110,7 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake 
-
+ 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg">
@@ -128,7 +126,7 @@
 
 ---
 
-## 🎧 Now Learning / Building
+##  Now Learning / Building
 
 ```js
 const nowLearning = [
