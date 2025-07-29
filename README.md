@@ -1,11 +1,8 @@
-<!-- 🖤 Minimalist Welcome Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/valerie-ekeigwe/valerie-ekeigwe/main/banner.jpeg" width="100%" />
-</p>
+<h1 align="center">✨ Hey, I'm Valerie ✨</h1>
+<p align="center"><strong>Creative Engineer | Dev | Designer</strong></p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AC5AFF&center=true&vCenter=true&width=440&lines=✨+Hey%2C+I'm+Valerie+✨;Creative+Engineer+%7C+Dev+%7C+Designer" alt="Typing SVG" />
-</h1>
+
+ 
 
 <p align="center">
   <em>👩‍💻 Full-stack Dev in the making | 🎨 Design-Driven | 💭 Forever Curious</em>
