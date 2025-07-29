@@ -2,7 +2,11 @@
   <img src="banner.jpeg" alt="Valerie's banner" style="border-radius: 27px; max-width: 100%;" />
 </p>
 
-<h1 align="center">✨ Hey, I'm Valerie ✨</h1>
+<p align="center">
+  <img src="typing-valerie.gif" alt="Typing animation that says 'Hey, I'm Valerie'" />
+</p>
+
+
 <p align="center"><strong>Engineer x Designer x Builder of Beautiful Things</strong></p>
 
 
