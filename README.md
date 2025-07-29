@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.jpeg" alt="Valerie's banner" style="border-radius: 27px; max-width: 100%;" />
+  <img src="banner.jpeg" alt="Valerie's banner" width="1200" />
 </p>
+
 
 <p align="center">
   <img src="typing-valerie.gif" alt="Typing animation that says 'Hey, I'm Valerie'" />
