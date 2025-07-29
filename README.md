@@ -3,20 +3,23 @@
   <img src="https://raw.githubusercontent.com/valerie-ekeigwe/valerie-ekeigwe/main/banner.jpeg" width="100%" />
 </p>
 
-
-
-<h1 align="center">✨ Hey, I'm Valerie ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AC5AFF&center=true&vCenter=true&width=440&lines=✨+Hey%2C+I'm+Valerie+✨;Creative+Engineer+%7C+Dev+%7C+Designer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <em>👩‍💻 Full-stack Dev in the making | 🎨 Design-Driven | 💭 Forever Curious</em>
 </p>
 
 ---
+
 <p align="center">
-  🧠 Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong> : a booking system for a coworking business, that helps users view and reserve available spaces in real-time.<br/>
-  🚀 I'm Passionate about creative tools, UI/UX design, and I'm currently obsessed with C++.<br/>
-  🤝 I'm open to internships, freelance opportunities, and meaningful collaborations.
+  🧠 Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong>: a coworking space booking system.<br/>
+  🚀 Passionate about UI/UX, creative tools, and all things C++.<br/>
+  🤝 Open to internships, freelance work, and collaborative builds.
 </p>
+
+---
 
 ## 🧵 My Developer Thread
 > 🧑‍🎓 `Software Engineering @ Ontario Tech`  
@@ -32,25 +35,53 @@
 
 <details>
   <summary><strong>🖼️ Frontend</strong></summary>
-  HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, GSAP, Framer, Figma
+  <p>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+  </p>
 </details>
 
 <details>
   <summary><strong>📦 Backend & DB</strong></summary>
-  Node.js, Express, MongoDB, Prisma, EmailJS
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EmailJS-0066CC?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </p>
 </details>
 
 <details>
   <summary><strong>🧩 Creative Tech</strong></summary>
-  Three.js, WebGL, GSAP, Shaders, Framer Motion, Real-time UI Systems
+  <p>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WebGL-FF6F61?style=for-the-badge&logo=webgl&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shaders-8464FD?style=for-the-badge&logo=shader&logoColor=white"/>
+  </p>
 </details>
 
 <details>
   <summary><strong>📱 Design & Tools</strong></summary>
-  Figma, Framer, Blender, Adobe Creative Suite, Git, GitHub, VS Code
+  <p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe CC-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </p>
 </details>
 
 ---
+
 ## 📌 Pinned Projects
 
 | 🧩 Project | Description | Stack |
@@ -60,46 +91,45 @@
 | 🛸 [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
 ---
+
 ## 📬 Let’s Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valerieekeigwe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com)
-[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://valerieekeigwe.substack.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valerieekeigwe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com)
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://valerieekeigwe.substack.com/)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerie-ekeigwe&theme=tokyonight&hide_border=false" width="45%" />
-
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake 
 
-<!-- GitHub Snake: realistic dark-mode animation only -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Valerie's contribution snake animation" src="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Valerie's GitHub contribution snake" src="https://raw.githubusercontent.com/valerie-ekeigwe/github-snake/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
-<!-- Optional Visitor Badge -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=valerie-ekeigwe&color=blue" alt="Profile views" />
 </p>
 
-</p>
-
-
+---
 
 ## 🎧 Now Learning / Building
 
@@ -110,4 +140,3 @@ const nowLearning = [
   'MongoDB & EmailJS Integration 💌',
   'Custom Dashboards & Admin UIs 📊'
 ];
-
