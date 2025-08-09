@@ -93,7 +93,7 @@
 |  Projects | Description | Stack |
 |-----------|-------------|-------|
 |  [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
-|  [**The Bean Book**](https://github.com/valerie-ekeigwe/The-Bean-Book) | Booking system for Ink and Bean | `HTML`, `CSS`, `JavaScript`, `MongoDB`, `EmailJS` |
+|  [**Satelite Detector**](https://github.com/valerie-ekeigwe/Satelite-Detector) | Rebuilt Python tool for detecting objects in satellite imagery faster, cleaner, and more accurate. | `Python`, `NumPY`, |
 |  [**Capsrow Landing Page**](https://github.com/valerie-ekeigwe/Capsrow-Landing-Page) | Framer-style product landing | `Next.js`, `Tailwind`, `Framer Motion`, `TypeScript` |
 
 ---
