@@ -107,15 +107,15 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerie-ekeigwe&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valerie-ekeigwe&theme=tokyonight&show_icons=true&hide_border=false&cache_seconds=1800&v=2" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerie-ekeigwe&theme=tokyonight&hide_border=false&cache_seconds=1800&v=2" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerie-ekeigwe&layout=compact&theme=radical&cache_seconds=1800&v=2" />
 </p>
 
 ---
