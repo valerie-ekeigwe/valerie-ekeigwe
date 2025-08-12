@@ -143,6 +143,6 @@
 const nowLearning = [
   'Kubernetes',
   'Currently honing in on my Front-End Skills',
-  'MongoDB & EmailJS Integration 💌',
-  'Custom Dashboards & Admin UIs 📊'
+  'MongoDB & EmailJS Integration ',
+  'Custom Dashboards & Admin UIs '
 ];
