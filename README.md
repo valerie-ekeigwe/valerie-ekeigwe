@@ -3,8 +3,16 @@
 </p>
 
 
-<p align="center">
-  <img src="typing-valerie.gif" alt="Typing animation that says 'Hey, I'm Valerie'" />
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Sacramento&size=100&width=1200&height=180&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&lines=Hi!+I'm+Valerie;Welcome+to+my+GitHub!%20"
+      alt="Typing SVG"
+      width="1200"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
 </p>
 
 
