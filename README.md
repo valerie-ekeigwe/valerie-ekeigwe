@@ -111,7 +111,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valerieekeigwe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-ekeigwe-804ba1320/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeriecekeigwe@gmail.com)
-[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://valerieekeigwe.substack.com/)
+
 
 ---
 
