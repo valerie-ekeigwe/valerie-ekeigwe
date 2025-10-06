@@ -39,9 +39,9 @@ Looking for summer 2025 internships.
 ##  My Developer Thread
 >  `Software Engineering @ Ontario Tech`  
 >  `I build interactive web & mobile apps`  
->  `Design enthusiast | Figma, Framer, Blender`  
+>  `I like to break things | Figma, Framer, Blender`  
 >  `Exploring LLMs & creative tech`  
->  `Let’s build something amazing together!`  
+ 
 
 ---
 
