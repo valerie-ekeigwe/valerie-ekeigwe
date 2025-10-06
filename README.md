@@ -16,22 +16,22 @@
 </p>
 
 
-<p align="center"><strong>Engineer x Designer x Builder of Beautiful Things</strong></p>
-
 
 
  
 
-<p align="center">
-  <em>👩‍💻 Full-stack Dev in the making | Design Driven | C++ enthusiast</em>
-</p>
 
 ---
 
 <p align="center">
-   Currently building <strong><a href="https://github.com/valerie-ekeigwe/The-Bean-Book">The Bean Book</a></strong>: a coworking space booking system.<br/>
-   Passionate about UI/UX, creative tools, and all things C++.<br/>
-   Open to internships, freelance work, and collaborative builds.
+  Valerie | Software Engineering @ Ontario Tech
+
+Building web apps and learning as I go. Currently working on:
+- Roamio: NASA satellite data + weather for trip planning
+- The Bean Book: Coworking space booking system
+
+Working on my front end skills, bad at design but trying anyway.
+Looking for summer 2025 internships.
 </p>
 
 ---
@@ -146,9 +146,8 @@
 ##  Now Learning and Building
 
 ```js
-const nowLearning = [
-  'Kubernetes',
-  'Currently honing in on my Front-End Skills',
-  'MongoDB & EmailJS Integration ',
-  'Custom Dashboards & Admin UIs '
-];
+## What I'm actually working on right now
+
+- Building The Bean Book with Next.js (struggling with MongoDB integration)
+- Learning Kubernetes by breaking things repeatedly
+- Contributing to the Canadian internships list because job hunting is hard
