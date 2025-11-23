@@ -150,4 +150,3 @@ Looking for summer 2025 internships.
 
 - Building The Bean Book with Next.js (struggling with MongoDB integration)
 - Learning Kubernetes by breaking things repeatedly
-- Contributing to the Canadian internships list because job hunting is hard
