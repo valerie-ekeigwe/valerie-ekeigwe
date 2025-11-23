@@ -109,7 +109,7 @@ Looking for summer 2025 internships.
 | [**Auto Read.ME Generator**](https://github.com/valerie-ekeigwe/Auto-Read-Me-Generator) | Instantly generates professional `README.md` files from GitHub repository metadata | `Python`, `GitHub API`, `Markdown` |
 | [**Satellite Detector**](https://github.com/valerie-ekeigwe/Satelite-Detector) | Rebuilt Python tool for detecting objects in satellite imagery its, faster, cleaner, and more accurate | `Python`, `NumPy` |
 | [**Safe Haven**](https://github.com/valerie-ekeigwe/Safe-Haven) | Community Security Webpage that allows people to feel safer in there community| `Next.js`, `Leaflet`, `Tailwind`, `TypeScript` |
-| [**Canadian '25/'26 Internships**](https://github.com/valerie-ekeigwe/Canadian-25-26-Internships) | Curated list of Canadian engineering internships for 2025–2026 | `Markdown`, `Git Control` |
+| [**Roamio**](https://github.com/valerie-ekeigwe/Canadian-25-26-Internships) | Web app thatfigure out if it's a good time to go outside, using NASA satellite data and weather info. | `React`, `Typescript`,`NASA Gibbs` |
 
 
 ## 📬 Let’s Connect
